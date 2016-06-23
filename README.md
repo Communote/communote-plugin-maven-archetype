@@ -1,0 +1,1 @@
+# communote-plugin-maven-archetype
